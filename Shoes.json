@@ -1,0 +1,85 @@
+[
+    {
+        "id":"6.1",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20230109/9ysQ/63bc355aaeb269c651cf7b56/-1117Wx1400H-410372631-h9461-MODEL2.jpg",
+        "title":"DIESEL S-Ukiyo Sneakers",
+        "price":"₹20,249"
+    }
+    ,
+    {
+        "id":"6.4",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20220919/N0rE/63288e53f997dd1f8d085411/-473Wx593H-410327174-n814-MODEL4.jpg",
+        "title":"ARMANI EXCHANGE Sneakers ",
+        "price":"MRP ₹19,999"
+    }
+    ,
+    {
+        "id":"6.2",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20230118/3NCL/63c81c53f997dd708e122ac2/-1117Wx1400H-410360303-001-MODEL2.jpg",
+        "title":"STEVE MADDEN  Sneakers",
+        "price":"MRP₹16,999"
+    }
+    ,
+    {
+        "id":"6.3",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20230315/gpFP/6411706daeb26924e3c11cb1/-1117Wx1400H-465693518-green-MODEL.jpg",
+        "title":"PUMA Running Shoes",
+        "price":"MRP ₹17,999"
+    }
+    ,
+    {
+        "id":"6.5",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20221031/SUr2/635f3445aeb269659c65035d/-1117Wx1400H-469206513-blue-MODEL.jpg",
+        "title":"ADIDAS Ultra Boost 5.0 Running Shoes",
+        "price":"₹15,299"
+    }
+    ,
+    {
+        "id":"6.6",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20230317/kR7R/641457dbf997dde6f40622bb/-1117Wx1400H-465609165-black-MODEL.jpg",
+        "title":"ASICS Gel-Nimbus 25 Sports Shoes",
+        "price":"MRP ₹15,999"
+    }
+    ,
+    {
+        "id":"6.7",
+        "photo":"https://rukminim1.flixcart.com/image/832/832/jb13te80/shoe/d/z/y/air-max-2016-nw-8-nike-black-white-dark-grey-original-imafygwydpgxnugj.jpeg?q=70",
+        "title":"NIKE AIR MAX  Running Shoes ",
+        "price":"₹13,136"
+    }
+    ,
+    {
+        "id":"6.8",
+        "photo":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/v/b/8-17619910-under-armour-black-original-imaggy53gwzygzzb.jpeg?q=70",
+        "title":"UNDER ARMOUR Running Shoes",
+        "price":"₹11,999"
+    }
+    ,
+    {
+        "id":"6.9",
+        "photo":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/h/f/q/-original-imagkzfhhezsas5f.jpeg?q=70",
+        "title":"PUMA Deviate Nitro Shoes",
+        "price":"₹11,839"
+    }
+    ,
+    {
+        "id":"6.10",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20230315/HLPh/6411704cf997dde6f4faedfb/-1117Wx1400H-465642404-grey-MODEL2.jpg",
+        "title":"PUMA Extent Nitro Cordura Unisex Sneakers",
+        "price":"MRP₹13,999"
+    }
+    ,
+    {
+        "id":"6.11",
+        "photo":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/f/y/-original-imagnsrd2vezmj9c.jpeg?q=70",
+        "title":"Skechers MAX CUHIONING DELTA Shoes ",
+        "price":"₹9,999"
+    }
+    ,
+    {
+        "id":"6.12",
+        "photo":"https://assets.ajio.com/medias/sys_master/root/20210824/7cMM/61240cd97cdb8cb824031c3d/-1117Wx1400H-410279385-6hq-MODEL3.jpg",
+        "title":"SUPERDRY Basket Trainer Shoes",
+        "price":"MRP ₹9,999"
+    }
+]
